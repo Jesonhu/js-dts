@@ -1,0 +1,11 @@
+{
+  "name": "js-dts-demo",
+  "version": "1.0.0",
+  "description": "js 使用 d.ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesonhu",
+  "license": "ISC"
+}
