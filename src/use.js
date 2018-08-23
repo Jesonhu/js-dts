@@ -1,3 +1,4 @@
+// @see ./types/test.d.ts
 // 这里可以检测到
 cA
 
