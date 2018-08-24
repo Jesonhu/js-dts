@@ -1,7 +1,7 @@
-## vue 单页面项目中给自己的插件在`.vue`文件中共添加提示
+## vue 单页面项目中让自己的插件在`.vue`文件中有提示
 
 #### 步骤
-1. 创建一个`d.ts`
+1. 创建一个 `xxx.d.ts`
 ```tyepscript
 declare module '@/utils/cTools' {
   /** 顶级命名空间 */
@@ -23,7 +23,7 @@ declare module '@/utils/cTools' {
 "types": "./src/utils/cTools/typings/cTools.d.ts"
 ```
  
-3. `.vue`文件中引入
+3. `.vue` 文件中引入
 ```
 import cTools from '@/utils/cTools';
 ```
